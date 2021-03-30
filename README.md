@@ -22,3 +22,6 @@ Utilized exsisting Google Books API search engine built with a RESTful API, and 
 * Apollo Server
 * GraphQL
 * Heroku
+
+## Known Bugs
+I refactored all the code appropropriately, however I was having some issues that I was unable to resolve with my tutor after 2 sessions. Please take into consideration, all the instructions have been followed. Deployed version will come after office hours hopefully. 
