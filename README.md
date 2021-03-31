@@ -11,6 +11,10 @@ Utilized exsisting Google Books API search engine built with a RESTful API, and 
 3. Created an Apollo Provider so that requests can communicate with an Apollo Server.
 4. Deployed the application to Heroku.
 
+## Usage
+
+Please visit live project [here](https://immense-reaches-02342.herokuapp.com/)
+
 ## Build With
 
 * MERN Stack 
@@ -23,5 +27,8 @@ Utilized exsisting Google Books API search engine built with a RESTful API, and 
 * GraphQL
 * Heroku
 
-## Known Bugs
-I refactored all the code appropropriately, however I was having some issues that I was unable to resolve with my tutor after 2 sessions. Please take into consideration, all the instructions have been followed. Deployed version will come after office hours hopefully. 
+## Credits
+Big thanks to my tutor, Jon Jackson for all his support and help. 
+
+## Questions
+If you have any questions, feel free to reach me by email: [akelstrom@gmail.com](mailto:akelstrom@gmail.com).
